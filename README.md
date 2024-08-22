@@ -1,6 +1,9 @@
 # Workdays
 
-`workdays` is a Rust library for computing work days and handling work calendars, inspired by the WORKDAY function in Excel. It provides functionality to define custom work weeks, add holidays, and compute dates based on a given number of work days.
+`workdays` is a Rust library for computing work days and handling work
+calendars, inspired by the WORKDAY function in Excel. It provides functionality
+to define custom work weeks, add holidays, and compute dates based on a given
+number of work days.
 
 ## Features
 
@@ -12,7 +15,7 @@
 
 ## Installation
 
-Add `workdays` as a depend in your `Cargo.toml`:
+Add `workdays` as a dependency in your `Cargo.toml`:
 
 ```bash
 cargo add workdays
