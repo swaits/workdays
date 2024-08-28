@@ -1,6 +1,6 @@
 [package]
 name = "workdays"
-version = "0.1.2"
+version = "0.1.3"
 edition = "2021"
 authors = ["Stephen Waits <steve@waits.net>"]
 description = "A Rust library for computing work days and handling work calendars, inspired by the WORKDAY function in Excel."
@@ -10,6 +10,7 @@ documentation = "https://docs.rs/workdays"
 readme = "README.md"
 keywords = ["calendar", "workday", "date", "business", "excel"]
 categories = ["date-and-time", "algorithms"]
+rust-version = "1.64"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
